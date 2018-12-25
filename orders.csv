@@ -1,4 +1,4 @@
-symbol,name,price,quantity,purchase_date,settlement_date
-QQQ,PowerShares QQQ,149.19990000,10.00000,2018-12-21 19:31,2018-12-26
-VNQ,Vanguard US REIT fund,75.46000000,15.00000,2018-12-21 19:30,2018-12-26
-DLR,Digital Realty Trust,106.77720000,10.00000,2018-12-21 19:29,2018-12-26
+symbol,name,price,quantity,side,purchase_date,settlement_date
+QQQ,PowerShares QQQ,149.19990000,10.00000,buy,2018-12-21 19:31,2018-12-26
+VNQ,Vanguard US REIT fund,75.46000000,15.00000,buy,2018-12-21 19:30,2018-12-26
+DLR,Digital Realty Trust,106.77720000,10.00000,buy,2018-12-21 19:29,2018-12-26
