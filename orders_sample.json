@@ -1,0 +1,117 @@
+{
+    "previous": null,
+    "results": [
+        {
+            "updated_at": "2018-12-21T19:31:18.339622Z",
+            "ref_id": "ecb7355b-1f8a-4fdc-a33f-8a638ef7a9fa",
+            "time_in_force": "gfd",
+            "fees": "0.00",
+            "cancel": null,
+            "response_category": "unknown",
+            "id": "46be57b1-7ad2-4d31-aac5-c09c1sf2d09f",
+            "cumulative_quantity": "10.00000",
+            "stop_price": null,
+            "reject_reason": null,
+            "instrument": "https://api.robinhood.com/instruments/1790dd4f-a7ff-409e-90de-cad5efafde10/",
+            "state": "filled",
+            "trigger": "immediate",
+            "override_dtbp_checks": false,
+            "type": "market",
+            "last_transaction_at": "2018-12-21T19:31:18.099000Z",
+            "price": "156.66000000",
+            "executions": [
+                {
+                    "timestamp": "2018-12-21T19:31:18.099000Z",
+                    "price": "149.19990000",
+                    "settlement_date": "2018-12-26",
+                    "id": "12d7sfc5-4f40-4c02-be91-fc5260765af7",
+                    "quantity": "10.00000"
+                }
+            ],
+            "extended_hours": false,
+            "account": "https://api.robinhood.com/accounts/ABC01234/",
+            "url": "https://api.robinhood.com/orders/46be57b1-7ad2-4d31-aac5-c09c1sf2d09f/",
+            "created_at": "2018-12-21T19:31:18.020448Z",
+            "side": "buy",
+            "override_day_trade_checks": false,
+            "position": "https://api.robinhood.com/positions/ABC01234/1790dd4f-a7ff-409e-90de-cad5efafde10/",
+            "average_price": "149.19990000",
+            "quantity": "10.00000"
+        },
+        {
+            "updated_at": "2018-12-21T19:30:23.297759Z",
+            "ref_id": "12154dd4-4451-4154-869a-5b78609845aa",
+            "time_in_force": "gfd",
+            "fees": "0.00",
+            "cancel": null,
+            "response_category": "unknown",
+            "id": "7b1ead2c-722b-451e-a806-833d435c4103",
+            "cumulative_quantity": "15.00000",
+            "stop_price": null,
+            "reject_reason": null,
+            "instrument": "https://api.robinhood.com/instruments/e6a6e495-3db9-4129-8baf-50d4247b1d9c/",
+            "state": "filled",
+            "trigger": "immediate",
+            "override_dtbp_checks": false,
+            "type": "market",
+            "last_transaction_at": "2018-12-21T19:30:23.072000Z",
+            "price": "79.24000000",
+            "executions": [
+                {
+                    "timestamp": "2018-12-21T19:30:23.072000Z",
+                    "price": "75.46000000",
+                    "settlement_date": "2018-12-26",
+                    "id": "6d3f9f83-c62d-4da1-8321-40804bc4cc3a",
+                    "quantity": "15.00000"
+                }
+            ],
+            "extended_hours": false,
+            "account": "https://api.robinhood.com/accounts/ABC01234/",
+            "url": "https://api.robinhood.com/orders/7b1ead2c-722b-451e-a806-833d435c4103/",
+            "created_at": "2018-12-21T19:30:22.939699Z",
+            "side": "buy",
+            "override_day_trade_checks": false,
+            "position": "https://api.robinhood.com/positions/ABC01234/e6a6e495-3db9-4129-8baf-50d4247b1d9c/",
+            "average_price": "75.46000000",
+            "quantity": "15.00000"
+        },
+        {
+            "updated_at": "2018-12-21T19:29:06.588381Z",
+            "ref_id": "9de92143-cd63-4123-af83-89671e6f12c2",
+            "time_in_force": "gfd",
+            "fees": "0.00",
+            "cancel": null,
+            "response_category": "unknown",
+            "id": "0eb71cb0-d235-4fb4-b5c8-f24adf80deda",
+            "cumulative_quantity": "10.00000",
+            "stop_price": null,
+            "reject_reason": null,
+            "instrument": "https://api.robinhood.com/instruments/7fcf5e7b-94d6-4266-b275-a48b03ab161f/",
+            "state": "filled",
+            "trigger": "immediate",
+            "override_dtbp_checks": false,
+            "type": "market",
+            "last_transaction_at": "2018-12-21T19:29:06.327000Z",
+            "price": "112.10000000",
+            "executions": [
+                {
+                    "timestamp": "2018-12-21T19:29:06.327000Z",
+                    "price": "106.77720000",
+                    "settlement_date": "2018-12-26",
+                    "id": "87426fee-234b-4760-b50c-8539a8b58464",
+                    "quantity": "10.00000"
+                }
+            ],
+            "extended_hours": false,
+            "account": "https://api.robinhood.com/accounts/ABC01234/",
+            "url": "https://api.robinhood.com/orders/0eb71cb0-d235-4fb4-b5c8-f24adf80deda/",
+            "created_at": "2018-12-21T19:29:06.214236Z",
+            "side": "buy",
+            "override_day_trade_checks": false,
+            "position": "https://api.robinhood.com/positions/ABC01234/7fcf5e7b-94d6-4266-b275-a48b03ab161f/",
+            "average_price": "106.77720000",
+            "quantity": "10.00000"
+        }
+    ],
+    "next": null
+}
